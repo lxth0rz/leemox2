@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::leemox_matching"
+msgid "Leemox Changes"
+msgstr "Leemox Changes"
+
+msgctxt "Addons::description::leemox_matching"
+msgid "Leemox Buyer Seller Matching Plugin"
+msgstr "Leemox Buyer Seller Matching Plugin"
+
+msgctxt "Languages::bigpicture_template_3"
+msgid "Leemox Big Picture Details Template"
+msgstr "Leemox Big Picture Details Template"
+
+msgctxt "Languages::tmpl_modern"
+msgid "Leemox Modern Product"
+msgstr "Leemox Modern Product"
